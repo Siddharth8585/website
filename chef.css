@@ -1,0 +1,265 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo>img {
+    border-radius: 50%;
+    /* border: 1px solid black; */
+    width: 40px;
+    height: 40px;
+    border: none;
+    /* margin: 10px; */
+
+}
+
+.head {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    /* border: 1px solid black; */
+
+
+}
+
+.duo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    background-color: rgb(255, 187, 0);
+    border-radius: 50%;
+    /* border: 1px solid black; */
+
+
+}
+
+.bites {
+    font-size: 20px;
+    /* border: 1px solid black; */
+    /* padding: 15px; */
+    /* border: 1px solid black; */
+
+
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 60px;
+    /* border: 1px solid black; */
+    /* padding-right: 200px; */
+
+}
+
+.menulast {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    /* border: 1px solid black; */
+    /* padding-left: 200px; */
+
+}
+
+.reserve {
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    padding: 10px;
+    background-color: orange;
+    color: black;
+    border: none;
+
+}
+
+.basket {
+    border-radius: 50%;
+    border: 2px solid orange;
+    padding: 10px;
+
+
+}
+
+.bodymid {
+    /* border: 1px solid black; */
+    display: flex;
+}
+
+.bodyleft {
+    width: 50%;
+    /* border: 1px solid black; */
+    padding: 20px;
+
+}
+
+.bodyright {
+    width: 60%;
+    /* border: 5px solid rgb(246, 6, 6); */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.explorefood {
+    border-radius: 20px;
+    background-color: orange;
+    padding: 10px;
+    border: none;
+}
+
+.search {
+    border-radius: 20px;
+    border: 2px solid orange;
+    padding: 10px;
+}
+
+.rightbutton {
+    /* display: flex; */
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    padding: 2px;
+    border: none;
+
+}
+
+.right {
+    /* flex-direction: column; */
+    /* border: 5px solid rgb(246, 6, 6); */
+    width: 20%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding-right: 150px;
+
+}
+
+.dish {
+    width: 50%;
+    /* border: 5px solid rgb(246, 6, 6); */
+
+}
+
+.popular {
+    /* border: 2px solid black; */
+    display: flex;
+    padding: 10px;
+    /* border: 2px solid red; */
+
+}
+
+.arrow {
+    border-radius: 50%;
+    padding: 10px;
+    border: 2px solid orange;
+}
+
+.arrows {
+    border-radius: 50%;
+    padding: 10px;
+    background-color: orange;
+    color: black;
+    border: none;
+
+}
+
+.arr {
+    padding-left: 1000px;
+}
+
+.color {
+    background-color: blanchedalmond;
+}
+
+.four {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 5px solid black; */
+    gap: 50px;
+}
+
+.pasta {
+    /* border: 5px solid rgb(244, 5, 5); */
+    background-color: white;
+
+}
+
+.chicken {
+    /* border: 5px solid rgb(248, 8, 8); */
+    background-color: white;
+
+}
+
+.french {
+    /* border: 5px solid rgb(255, 0, 0); */
+    background-color: white;
+
+}
+
+.fish {
+    /* border: 5px solid rgb(255, 9, 9); */
+    background-color: white;
+
+}
+
+.pas {
+    /* border: 2px solid black; */
+    padding-left: 45px;
+}
+
+.caption {
+    /* display: flex; */
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    /* border: 2px solid black; */
+    text-align: center;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.butto {
+    border-radius: 20px;
+    border: 2px solid orange;
+    padding: 8px;
+
+
+}
+
+.orange {
+    color: orange;
+}
+
+.buttonnn {
+    border-radius: 20px;
+    border: none;
+    color: black;
+    padding: 8px;
+    background-color: orange;
+}
+
+.leftbox {
+    border: 5px solid black;
+}
+
+.rightbox {
+    border: 5px solid black;
+}
+
+.mainbox {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
